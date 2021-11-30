@@ -1,0 +1,2 @@
+# rosalind
+Studying python
