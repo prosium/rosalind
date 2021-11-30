@@ -1,2 +1,2 @@
 # rosalind
-Studying python
+Solving bioinforamtics algorithm problem
