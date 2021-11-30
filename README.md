@@ -1,2 +1,2 @@
 # rosalind
-Solving bioinforamtics algorithm problem
+Solving bioinformatics algorithmic problem
